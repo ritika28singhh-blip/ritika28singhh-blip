@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<!-- Social Links & Profiles -->
+<!-- Social Links & Connect -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ritika-singh-7a5521365/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
