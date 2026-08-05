@@ -35,3 +35,109 @@
   "core_stack": ["Python", "Flask", "LangChain", "FAISS", "Machine Learning"],
   "motto": "Building intelligent software to solve real-world problems 🚀"
 }
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,sql" />
+</p>
+
+### AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,flask" />
+</p>
+
+**Technologies:** LangChain • FAISS • Retrieval-Augmented Generation (RAG) • Agentic AI • Scikit-learn • Pandas • NumPy • Matplotlib • Google Colab
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,matlab,linux" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project                           | Description                                                                                                                 |
+| --------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| **CampusMind AI**                 | AI-powered virtual assistant for PCCOE using RAG, LangChain, FAISS, and Large Language Models. *(Work in Progress)*         |
+| **AgroMitra**                     | Smart agriculture assistant that provides AI-driven support for farmers.                                                    |
+| **Stock Market Prediction**       | Machine learning project using Random Forest, Bagging Regressor, KNN, and Gradient Boosting to predict stock prices.        |
+| **RTILA Google Search Agent**     | Browser automation agent that searches keywords on Google, verifies website rankings, and captures screenshots using RTILA. |
+| **EV Traction System Simulation** | MATLAB/Simulink simulation comparing different electric vehicle motor topologies.                                           |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ritika28singhh-blip&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritika28singhh-blip&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ritika28singhh-blip&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ritika28singhh-blip&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritika28singhh-blip&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 💻 Coding Platforms
+
+<p align="left">
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.hackerrank.com/">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://www.codechef.com/">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="mailto:ritika28singhh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ritika-singh-7a5521365/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ritika28singhh-blip">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Code. Learn. Build. Repeat."</i>
+</p>
+
