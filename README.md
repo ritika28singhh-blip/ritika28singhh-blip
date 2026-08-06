@@ -175,3 +175,5 @@
 <p align="center">
   <i>⭐ Building intelligent solutions with AI, Machine Learning, and Software Engineering.</i>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:4F46E5&height=120&section=footer"/>
