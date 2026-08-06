@@ -1,3 +1,4 @@
+
 <!-- Animated Neon Wave Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,50:4FACFE,100:000000&height=220&section=header&text=Hi%20%F0%9F%90%8B%20I'm%20Ritika%20Singh&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%"/>
@@ -8,11 +9,6 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00F2FE&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Developer;B.Tech+ENTC+@+PCCOE%2C+Pune;Building+Agentic+AI+%26+RAG+Systems;RTILA+X+%7C+Browser+Automation+%7C+Python" alt="Typing SVG" />
   </a>
-</p>
-
-<!-- Animated Developer Illustration -->
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="450" alt="Developer Coding GIF"/>
 </p>
 
 <!-- Custom Ritika Badge & Social Links -->
