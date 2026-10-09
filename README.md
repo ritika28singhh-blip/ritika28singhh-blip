@@ -43,7 +43,7 @@
 - 🎓 **B.Tech in Electronics & Telecommunication Engineering** at Pimpri Chinchwad College of Engineering (PCCOE), Pune
 - 🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, **Generative AI**, and **Software Development**
 - 🌱 Currently exploring **Agentic AI**, **Retrieval-Augmented Generation (RAG)**, and **intelligent automation systems**
-- 💻 Building AI applications using **Python**, **LangChain**, **FAISS**, **Flask**, and **Machine Learning**
+- 💻 Building AI applications using **Python**, **LangChain**, **Flask**, and **Machine Learning**
 - 🚀 Driven by AI Engineering, Software Architecture, and solving real-world problems through technology
 
 ---
@@ -87,6 +87,7 @@
 
 | 🔹 Project | 📄 Description | 🛠️ Tech Stack |
 | :--- | :--- | :--- |
+| **AI Multi-Hazard Road Risk Assessment** | Advanced safety system prototype for Connected and Autonomous Vehicles (CAV) featuring real-time YOLO object detection, monocular distance/speed estimation, and a mathematical risk-fusion framework. | `Python 3.14` · `YOLOv8` · `OpenCV` · `Streamlit` |
 | **CampusMind AI** | AI-powered virtual assistant for PCCOE using Retrieval-Augmented Generation (RAG), LangChain, FAISS, and LLMs. | `Python` · `LangChain` · `FAISS` · `Flask` |
 | **AgroMitra** | AI agricultural assistant providing farmers with intelligent recommendations and yield insights. | `Python` · `Computer Vision` · `Flask` |
 | **Stock Market Prediction** | ML project using Random Forest, KNN, Bagging Regressor, and Gradient Boosting for forecasting. | `Python` · `Scikit-Learn` · `Pandas` |
